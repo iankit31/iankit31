@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iankit31
+- 👋 Hi, I’m Ankit Pandey
 - 👀 I’m interested in Software Development and Competitive Programing
 - 🌱 I’m currently learning React and Node.js.
 - 📫 Want to reach out to me mailto imankitpandey31@gmail.com
